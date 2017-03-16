@@ -1,0 +1,18 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+body{
+  font-family: Avenir;
+  background-color: rgb(205,229,217);
+  text-align: center;
+}
+
+h1{
+  font-family: Alex Brush;
+  font-size: 10em;
+}
+
+table{
+  margin: 0 auto;
+}
